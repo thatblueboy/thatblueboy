@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an Undergraduate Student at Birla Institute of Technology and Science Pilani, K.K Birla Goa Campus.
+I am an Undergraduate Student at BITS Pilani, Goa.
 
 <!--
 **thatblueboy/thatblueboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
