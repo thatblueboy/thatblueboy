@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 I am Aditya, an undergrad at BITS Pilani, Goa.
 
 - 🤖 I'm deeply interested in the field of **machine learning** and **robotics**. I love exploring how AI and automation can transform our world.
