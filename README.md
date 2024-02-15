@@ -3,7 +3,6 @@ I am Aditya, an undergrad at BITS Pilani, Goa.
 
 - 🤖 I'm deeply interested in the field of **machine learning** and **robotics**. I love exploring how AI and automation can transform our world.
 - 📡 My background is in **electronics and communications**, and I'm always excited about new developments in this field.
-- 🎨 I'm also an artist and designer, and I enjoy expressing my creativity through various artistic mediums.
  
 ## 📫 Let's Connect
 
